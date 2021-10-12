@@ -429,6 +429,7 @@ color: white;
         margin: 5px 0;
         color: coral;
         width: max-content;
+        font-size: 16px;
     }
     #food-items{        
         padding: 5px 10px;
@@ -459,7 +460,7 @@ color: white;
         width: 100px;
         height: 100px;
     }
-    #item-name{
+    #item-name,#item-price{
         font-size: 16px;
     }
     .list-card{
@@ -512,6 +513,6 @@ color: white;
         width: 140px;
     }
     #food-items{
-        padding: 0;
+        padding: 0 5px;
     }
 }
