@@ -339,7 +339,7 @@ color: white;
 #m-total-amount{
     display: none;
 }
-@media screen and (max-width : 800px) and (-webkit-min-device-pixel-ratio: 2){
+@media screen and (max-width : 800px) and (-webkit-min-device-pixel-ratio: 3){
     .container{
         display: none;
     }
@@ -448,7 +448,7 @@ color: white;
         font-size: 16px;
     }
     #category-name{
-        font-size: 255px;
+        font-size: 25px;
         font-family: 'Aclonica', sans-serif;
     }
     #item-card{
@@ -506,7 +506,7 @@ color: white;
     
 }
 
-@media screen and (max-width : 380px) and (-webkit-min-device-pixel-ratio: 2){
+@media screen and (max-width : 380px) and (-webkit-min-device-pixel-ratio: 3){
     #item-card{
         height: 200px;
         width: 140px;
