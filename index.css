@@ -508,7 +508,7 @@ color: white;
 
 @media screen and (max-width : 380px){
     #item-card{
-        height: 150px;
+        height: 100px;
         width: 140px;
     }
     #food-items{
