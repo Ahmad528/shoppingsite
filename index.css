@@ -508,8 +508,8 @@ color: white;
 
 @media screen and (max-width : 380px){
     #item-card{
-        height: 100px;
-        width: 140px;
+        height: 200px;
+        width: 100px;
     }
     #food-items{
         padding: 0;
