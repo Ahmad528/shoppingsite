@@ -339,7 +339,7 @@ color: white;
 #m-total-amount{
     display: none;
 }
-@media screen and (max-width : 800px) and (-webkit-min-device-pixel-ratio: 3){
+@media screen and (max-width : 800px) and (-webkit-min-device-pixel-ratio: 2){
     .container{
         display: none;
     }
@@ -506,7 +506,7 @@ color: white;
     
 }
 
-@media screen and (max-width : 380px) and (-webkit-min-device-pixel-ratio: 3){
+@media screen and (max-width : 400px) and (-webkit-min-device-pixel-ratio: 2){
     #item-card{
         height: 200px;
         width: 140px;
