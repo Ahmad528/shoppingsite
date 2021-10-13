@@ -4,6 +4,7 @@
 
 html{
     height: -webkit-fill-available;
+}
 body{
     margin: 0;
     padding: 0;
@@ -512,6 +513,9 @@ color: white;
 }
 
 @media screen and (max-width : 400px) and (-webkit-min-device-pixel-ratio: 2){
+    #mobile-view{
+        min-height: -webkit-fill-available;
+    }
     #item-card{
         height: 200px;
         width: 140px;
