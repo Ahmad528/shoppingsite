@@ -3,13 +3,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Aclonica&display=swap');
 
 html{
-    height: -webkit-fill-available;
+    height: 100%;
 }
 body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
+    height: 100%;
 }
 .container{
     display: grid;
@@ -349,8 +350,7 @@ color: white;
     #mobile-view{
         display: grid;
         grid-template-rows: 120px 1fr 50px;
-        min-height: 100vh;
-        min-height: -webkit-fill-available;
+        height: 100%;
         overflow: hidden;
         
         width: 100vw;
