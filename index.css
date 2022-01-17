@@ -60,12 +60,10 @@ body{
 .menu-item a:hover{
     background: rgb(250, 212, 218);
 }
-#food-container{
-background: whitesmoke;
-overflow: scroll;
-overflow-x: hidden;
-box-sizing: content-box;
-
+#food-items{
+    background: whitesmoke;
+    overflow: auto;
+    height: calc(100vh - 86px);
 }
 #header{
     display: flex;
