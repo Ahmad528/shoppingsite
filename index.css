@@ -130,13 +130,13 @@ body{
     color: white;
     background: crimson;
 }
-#biryani,#paneer,#chicken,#vegetable,#chinese,#south-indian{
+#pho,#banhmi,#ga,#douong,#mi,#trangmieng{
     margin-top: 40px;   
 }
-#paneer #item-card,#vegetable #item-card{
+#banhmi #item-card,#douong #item-card{
     background: rgb(218, 253, 188);
 }
-#chinese #item-card,#south-indian #item-card{
+#mi #item-card,#trangmieng #item-card{
     background: rgb(221, 243, 243);
 }
 #category-name,.item-menu{
