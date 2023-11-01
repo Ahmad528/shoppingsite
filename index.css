@@ -106,7 +106,7 @@ body{
     width: 150px;
     overflow: hidden;
     border: none;
-    outline: none;
+    outline-color: transparent;
     background: none;
     color: rosybrown;
     padding: 0 5px;
@@ -233,7 +233,7 @@ color: white;
 }
 
 .cart-btn{
-    outline: none;
+    outline-color: transparent;
     border: none;
     background: crimson;
     color: white;
@@ -250,7 +250,7 @@ color: white;
     font-size: 20px;
 }
 #cart-page table tbody button{
-    outline: none;
+    outline-color: transparent;
     border: none;
     font-size: 16px;
     background: none;
